@@ -1,2 +1,2 @@
-# ph125.9x_Capstone_Project
-Capstone Final Paper
+# PH125.9x_Capstone_Project
+## Jonathan Behar Capstone Final Paper
